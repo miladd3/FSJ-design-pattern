@@ -12,7 +12,7 @@ Fosounjan Design Pattern - Make Quick And efficient Software with less effort
 Project With little time come up with difficulties and if programmer or designer become Obsessive it will consume huge time and cause project to fail
 
 # Summary
-_FSJ(Fosounjan) Design pattern_ tell that its better to do easiest way to done a job. and do not confuse yourself with trending freamworks or fancy stuff. 
+*FSJ(Fosounjan) Design pattern* tell you to do the easiest way to done something. and don't confuse yourself with trending frameworks or fancy stuff. 
 its not for everyone if you have enough time to lean new trendy stuff and other things its not for you.
 
 > Fosounjan is actually just say you to done it, or in our language *Fosounjan It*
